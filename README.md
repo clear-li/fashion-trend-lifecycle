@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![pandas](https://img.shields.io/badge/pandas-2.0-green)
+![scipy](https://img.shields.io/badge/scipy-1.0-orange)
+![pytrends](https://img.shields.io/badge/pytrends-API-red)
+
 # Fashion Micro-Trend Lifecycle Modeler
 
 ## Overview
@@ -37,3 +42,11 @@ Trends with self-explanatory names (old money, clean girl, ballet core) show low
 
 ## Tools Used
 Python, pandas, pytrends, scipy, matplotlib, plotly
+
+## Visualizations
+
+### Trend Comparison
+![Trend Comparison](trends_comparison.png)
+
+### Lifecycle Curve Fitting
+![Curve Fitting](curve_fitting.png)
