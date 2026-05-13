@@ -45,8 +45,13 @@ Python, pandas, pytrends, scipy, matplotlib, plotly
 
 ## Visualizations
 
-### Trend Comparison
-![Trend Comparison](trends_comparison.png)
+## Visualizations
+
+### Trend Search Interest Over Time
+![Trend Line Graph](trends_lineplot.png)
+
+### Trend Intensity vs Longevity
+![Scatter Plot](trends_comparison.png)
 
 ### Lifecycle Curve Fitting
 ![Curve Fitting](curve_fitting.png)
