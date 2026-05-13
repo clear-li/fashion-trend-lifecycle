@@ -48,7 +48,7 @@ Python, pandas, pytrends, scipy, matplotlib, plotly
 ## Visualizations
 
 ### Trend Search Interest Over Time
-![Trend Line Graph](trends_lineplot.png)
+![Trend Line Graph](trends_comparison_line.png)
 
 ### Trend Intensity vs Longevity
 ![Scatter Plot](trends_comparison.png)
