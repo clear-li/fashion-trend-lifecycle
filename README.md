@@ -45,8 +45,6 @@ Python, pandas, pytrends, scipy, matplotlib, plotly
 
 ## Visualizations
 
-## Visualizations
-
 ### Trend Search Interest Over Time
 ![Trend Line Graph](trends_comparison_line.png)
 
